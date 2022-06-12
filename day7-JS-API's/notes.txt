@@ -1,0 +1,12 @@
+API - Appliction porgramming interface.
+    - api stands for appliction porgramming interface.
+    - interface of a contract of service between two applictions, s called API.
+    - This contract defines how the two communicate with each other using requests and responses.
+
+Type of API's -
+
+(1) GET - GET request is used for getting data from backend to frontend.
+(2) POST - used for data add and update.
+(3) PUT - data modify or edit.
+(4) DELETE - used for data delete.
+(5) PATCH - modify the specific data.
