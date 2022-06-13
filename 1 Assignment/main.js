@@ -1,6 +1,3 @@
-var name = "naresh";
-var a = [1, 2, 3, 'naresh', true, false]
-
 var ravi = {
     name: 'Ravi',
     age: 25,
