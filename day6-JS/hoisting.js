@@ -20,8 +20,6 @@ function one() {
     console.log("Start");
 }
 
-con
-
 function two() {
     setTimeout(() => {
         console.log("MID");
