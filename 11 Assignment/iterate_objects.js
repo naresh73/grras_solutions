@@ -29,6 +29,11 @@ console.log(Object.values(Sameer));
 console.log(Object.keys(Purvi));
 console.log(Object.values(Purvi));
 
+//using entries() method
+console.log(Object.entries(Aman));
+console.log(Object.entries(Sameer));
+console.log(Object.entries(Purvi));
+
 //add key & value
 Aman['address'] = "Banglore";
 Sameer['address'] = "Delhi";
